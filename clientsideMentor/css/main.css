@@ -1,0 +1,175 @@
+.fb_head{
+	background-color: #3A5795;
+}
+.head_off{
+	margin-top: 0.6%;
+}
+.white{
+	color: white;
+}
+.head_foot{
+	color: #99A0B2;
+}
+.login{
+	background-color: #4C67A1;
+	color: white;
+	border: black;
+	padding: 3%;
+}
+.second_div{
+	background: #D4D9E8;
+}
+.map_head{
+	color: #0E385F;
+}
+.per_4{
+	margin-top: 4%;
+}
+.per_3{
+	margin-top: 3%;
+}
+.per_2{
+	margin-top: 2%;
+}
+.map_img{
+	margin-bottom: 50%;
+}
+.margin_25{
+	margin-left: 25%
+}
+.per_1{
+	margin-top: 1%;
+}
+.per_6_5{
+	margin-top: 6.5%;
+}
+.left_2{
+	margin-left: 2%
+}
+.grey{
+	color: #848484;
+}
+a{
+	color: #0E385F;	
+}
+.login-box{
+	margin-top: 8%;
+	margin-bottom: 8%;
+	height: 336px;
+	border: 1%;
+	background-color: white;
+}
+.login-box-image{
+	margin-top: 8%;
+	margin-bottom: 8%;
+	height: 360px;
+	border: 1%;
+	background-color: white;
+}
+.popover{
+	border-color: red!important;
+}
+.home{
+	min-height: 80px;
+}
+.home_2{
+	min-height: 500px;
+}
+.home_status1{
+	min-height: 200px;
+	background-color: white;
+	margin-top: 5px;
+}
+.home_status2{
+	min-height: 400px;
+	background-color: white;
+	margin-top: 5px;
+}
+.home_add{
+	background-color: white;
+	height: 500px;
+	margin-top: 1%;
+}
+.fb_head_height{
+	min-height: 82px;
+	min-width: 100px;
+}
+.fb_home_head{
+	min-height: 50px;
+	background-color: #3A5795;
+}
+.second_div_size{
+	height: 1000px;
+}
+.table{
+	margin-bottom: 0px;
+}
+.status_blue{
+	color: #6D8ED2;
+}
+.status_orange{
+	color: #D69B68;
+}
+.status_green{
+	color: #3bad35;
+}
+img{
+	padding:2%;
+}
+.bolder{
+	font-size: bolder;
+}
+.middle{
+	vertical-align: middle;
+}
+/* enable absolute positioning */
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .glyphicon  { left:  0px;}
+.right-addon .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+.float_left{
+	float: left;
+}
+.rel_position{
+	position: relative;
+}
+.margin_2{
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+}
+.search_style{
+	margin-right: 3%;
+    color: #848484;
+}
+.gly_edit{
+    margin-left: 2.5%;
+    color: #536AAF;
+}
+.edit_h{
+    margin-top: -6%;
+    margin-left: 11%;
+}
+.gly_photo{
+    color: #BF8E35;
+}
+.gly_list{
+    color: #0B7B0B;
+}
+.zero{
+	margin-top: 0%;
+}
